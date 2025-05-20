@@ -2,11 +2,11 @@
 
 a react ui library heavily inspired by vercel's [geist design system](https://vercel.com/geist/introduction)
 
-### todo
+### todo - 1
 
-- [ ] stack
-- [ ] avatar group
-- [ ] github avatar
-- [ ] gitlab avatar
-- [ ] bitbucket avatar
-- [ ] avatar ( that takes in username and has a placeholder attribute )
+- [x] stack
+- [x] avatar group
+- [x] github avatar
+- [x] gitlab avatar
+- [x] bitbucket avatar
+- [x] avatar ( that takes in username and has a placeholder attribute )
